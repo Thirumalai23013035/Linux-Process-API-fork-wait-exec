@@ -1,5 +1,5 @@
 # Linux-Process-API-fork-wait-exec-
-SWETHA A (212223220114)
+THIRUMALAI V(212223040229)
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
